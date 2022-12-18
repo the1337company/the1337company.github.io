@@ -1,0 +1,54 @@
+header:
+  - titles:
+      # @start locale config
+      en      : &EN       Tags
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /tags.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       About
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /about.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       BuyMeACoffee
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: https://www.buymeacoffee.com/the1337company
+    icon: https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg
+    newtab: true
+
+  - titles:
+      # @start locale config
+      en      : &EN       RSS
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /rss.xml
+    icon: https://img.icons8.com/external-creatype-filed-outline-colourcreatype/0.5x/external-rss-user-interface-creatype-filed-outline-colourcreatype.png
+
+  - titles:
+      # @start locale config
+      en      : &EN       Github
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: https://github.com/the1337company
+    icon: https://github.githubassets.com/favicons/favicon.png
